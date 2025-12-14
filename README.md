@@ -19,6 +19,18 @@ _Our platform transforms healthy screen habits into a rewarding gameplay experie
 
 The journey doesn’t stop here — this is just the beginning. Moving forward, we aim to collect richer behavioral datasets to enhance personalization and improve our risk assessment accuracy. We plan to expand the gamified ecosystem with more challenge types, progress tracking, leaderboards, and reward mechanisms to keep users motivated long-term. We also envision integrating wearable and smartphone wellness APIs to detect stress or fatigue in real time, enabling proactive interventions. On the AI side, we hope to fine-tune our LLM for even safer, more empathetic recommendations tailored to each user’s emotional state. Finally, we want to scale our platform to schools, universities, and workplaces — helping people everywhere create healthier and happier relationships with technology. 🌍✨
 
+
+### **_ML Model Result :_** 
+
+* HistGradientBoosting Accuracy: 92%
+
+  <img width="550" height="600" src="https://github.com/user-attachments/assets/19b099cd-6fe3-4cfc-84ed-eee2b2d20ff3" />
+
+* Test data visualization
+
+  <img width="550" height="600" src="https://github.com/user-attachments/assets/fe2fd27e-3e39-40d2-9a80-a4d6874e06e3" />
+
+
 ### **_Deployment Results :-_** 
 
 <img width="650" height="780" src="https://github.com/user-attachments/assets/e99b99b9-ff92-41d2-83ea-c62b311d64ea" />
